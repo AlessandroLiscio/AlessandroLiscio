@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Artificial Intelligence Master Graduate. I grew up fighting dragons in a [small village](https://www.wikiwand.com/en/Montecarotto) in Italy using handcrafted wooden weapons and ancient magic spells. Yes, I know. I am a tough guy.
+I'm an Artificial Intelligence Master Graduate who grew up fighting dragons in a [small village](https://www.wikiwand.com/en/Montecarotto) in Italy using handcrafted wooden weapons and ancient magic spells. Yes, I know. I am a tough guy.
 
 Now I am mastering the art of technology:
 
