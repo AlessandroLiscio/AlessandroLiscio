@@ -10,12 +10,12 @@ Now I am mastering the art of technology:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Matlab](https://img.shields.io/badge/-Matlab-000?&logo=Matlab)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
  - 🤖 ML/DL:
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
@@ -25,6 +25,7 @@ Now I am mastering the art of technology:
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
 ![SciPy](https://img.shields.io/badge/-SciPy-000?&logo=SciPy)
 ![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=Plotly)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
  - ⚡Others:
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -32,6 +33,8 @@ Now I am mastering the art of technology:
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![LaTex](https://img.shields.io/badge/-LaTex-000?&logo=latex)
 
 Ok, ok...I admit I have never fought a real dragon...but I do make quite a good Dungeon Master! 🔮
