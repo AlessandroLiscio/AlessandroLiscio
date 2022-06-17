@@ -4,7 +4,10 @@
 
 I'm an Artificial Intelligence Master Graduate who grew up fighting dragons in a [small village](https://www.wikiwand.com/en/Montecarotto) in Italy using handcrafted wooden weapons and ancient magic spells. Yes, I know. I am a tough guy.
 
-Now I am mastering the art of technology:
+Ok, ok...I admit I have never fought a real dragon...but I do make quite a good Dungeon Master! 🔮
+
+### My magic tools 🪄
+<!--- Now I am mastering the art of technology: --->
 
  - 💻 Languages:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -37,9 +40,8 @@ Now I am mastering the art of technology:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![LaTex](https://img.shields.io/badge/-LaTex-000?&logo=latex)
 
-Ok, ok...I admit I have never fought a real dragon...but I do make quite a good Dungeon Master! 🔮
-
-Visit my 🏃[LinkedIn Profile](https://www.linkedin.com/in/alessandro-liscio-483027192/) or contact me at 📫 aleliscio97@gmail.com 
+### Contact me!
+ Visit my 🏃[LinkedIn Profile](https://www.linkedin.com/in/alessandro-liscio-483027192/) or contact me at 📫 aleliscio97@gmail.com 
  
 <!-- GITHUB PROFILE STATS
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=AlessandroLiscio&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
