@@ -1,15 +1,19 @@
+<!-- PRESENTATION GIF --->
 ![](https://raw.githubusercontent.com/AlessandroLiscio/AlessandroLiscio/master/Profile.gif)
 
-### Hi there 👋
+<!-- ABOUT ME --->
+
+<h3 align="center"> Hello traveler! 👋 </h3>
 
 I'm an Artificial Intelligence Master Graduate who grew up fighting dragons in a [small village](https://www.wikiwand.com/en/Montecarotto) in Italy using handcrafted wooden weapons and ancient magic spells. Yes, I know. I am a tough guy.
 
 Ok, ok...I admit I have never fought a real dragon...but I do make quite a good Dungeon Master! 🔮
 
-### My magic tools 🪄
-<!--- Now I am mastering the art of technology: --->
+<!-- TECHNOLOGIES --->
 
- - 💻 Languages:
+<h3 align="center"> My magic tools 🪄 </h3>
+ 
+- 💻 Languages:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala)
@@ -40,8 +44,39 @@ Ok, ok...I admit I have never fought a real dragon...but I do make quite a good 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![LaTex](https://img.shields.io/badge/-LaTex-000?&logo=latex)
 
-### Contact me!
+<!-- PROJECTS --->
+
+<h3 align="center"> My Greatest Battles ⚔️ </h3>
+
+<p align="center">
+ 
+ <a href="https://github.com/AlessandroLiscio/DeepComedyGenerator">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlessandroLiscio&repo=DeepComedyGenerator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+ </a>
+
+ <a href="https://github.com/AlessandroLiscio/NLP_SQuAD_Project">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlessandroLiscio&repo=NLP_SQuAD_Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+ </a>
+
+ <a href="https://github.com/AlessandroLiscio/Soil-Heritage-Knowledge-Graph">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlessandroLiscio&repo=Soil-Heritage-Knowledge-Graph&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+ </a>
+
+ <a href="https://github.com/AlessandroLiscio/spark-emr-twitter-analysis">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlessandroLiscio&repo=spark-emr-twitter-analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+ </a>
+
+</p>
+
+<!-- CONTACTS --->
+
+<h3 align="center"> Contact me! </h3>
+
+<h4 align="center">
+ 
  Visit my 🏃[LinkedIn Profile](https://www.linkedin.com/in/alessandro-liscio-483027192/) or contact me at 📫 aleliscio97@gmail.com 
+ 
+<h4>
  
 <!-- GITHUB PROFILE STATS
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=AlessandroLiscio&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
