@@ -46,7 +46,7 @@ Ok, ok...I admit I have never fought a real dragon...but I do make quite a good 
 
 <!-- PROJECTS --->
 
-<h3 align="center"> My Greatest Battles ⚔️ </h3>
+<h3 align="center"> My greatest battles ⚔️ </h3>
 
 <p align="center">
  
