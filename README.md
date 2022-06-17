@@ -32,7 +32,7 @@ Now I am mastering the art of technology:
 ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)
 ![LaTex](https://img.shields.io/badge/-LaTex-000?&logo=latex)
 
-Ok, ok...I admit I have never fought real dragon...but I make quite a good Dungeon Master! 🔮
+Ok, ok...I admit I have never fought a real dragon...but I do make quite a good Dungeon Master! 🔮
 
 Visit my 🏃[LinkedIn Profile](https://www.linkedin.com/in/alessandro-liscio-483027192/) or contact me at 📫 aleliscio97@gmail.com 
  
