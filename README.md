@@ -3,7 +3,7 @@
 
 <!-- ABOUT ME --->
 
-<h3 align="center"> Hello traveler! 👋 </h3>
+<h3 align="center"> Greetings, traveler! 👋 </h3>
 
 I'm an Artificial Intelligence Master Graduate who grew up fighting dragons in a [small village](https://www.wikiwand.com/en/Montecarotto) in Italy using handcrafted wooden weapons and ancient magic spells. Yes, I know. I am a tough guy.
 
