@@ -17,7 +17,7 @@
 
 <!-- TECHNOLOGIES --->
 
-<h3 align="center"> My magic tools 🪄 </h3>
+<h3 align="center"> My magic tools :sparkles: </h3>
  
 - 💻 Languages:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
