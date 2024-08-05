@@ -5,13 +5,11 @@
 
 <h3 align="center"> Greetings, traveler! 👋 </h3>
 
-<p align="center">
-  
- I'm an Artificial Intelligence Master Graduate who grew up fighting dragons in a [small village](https://www.wikiwand.com/en/Montecarotto) in Italy using handcrafted weapons and ancient magic spells. Yes, I know. I am a tough guy.
+<p align="center"> I'm an Artificial Intelligence Master Graduate who grew up fighting dragons in a [small village](https://www.wikiwand.com/en/Montecarotto) in Italy using handcrafted weapons and ancient magic spells. Yes, I know. I am a tough guy. </p>
  
- Ok, ok...I admit I have never fought a real dragon...but I do make quite a good Dungeon Master! 🔮
+ <p align="center"> Ok, ok...I admit I have never fought a real dragon...but I do make quite a good Dungeon Master! 🔮 </p>
 
-</p>
+
 
 <!-- TECHNOLOGIES --->
 
