@@ -5,9 +5,13 @@
 
 <h3 align="center"> Greetings, traveler! 👋 </h3>
 
-I'm an Artificial Intelligence Master Graduate who grew up fighting dragons in a [small village](https://www.wikiwand.com/en/Montecarotto) in Italy using handcrafted wooden weapons and ancient magic spells. Yes, I know. I am a tough guy.
+<h4 align="center">
+ 
+I'm an Artificial Intelligence Master Graduate who grew up fighting dragons in a [small village](https://www.wikiwand.com/en/Montecarotto) in Italy using handcrafted weapons and ancient magic spells. Yes, I know. I am a tough guy.
 
 Ok, ok...I admit I have never fought a real dragon...but I do make quite a good Dungeon Master! 🔮
+
+</h4>
 
 <!-- TECHNOLOGIES --->
 
@@ -74,9 +78,9 @@ Ok, ok...I admit I have never fought a real dragon...but I do make quite a good 
 
 <h4 align="center">
  
- Visit my 🏃[LinkedIn Profile](https://www.linkedin.com/in/alessandro-liscio-483027192/) or contact me at 📫 aleliscio97@gmail.com 
+ Visit my 🏃[LinkedIn Profile](https://www.linkedin.com/in/alessandro-liscio-483027192/) or contact me at 📫 alessandroliscio02@gmail.com 
  
-<h4>
+</h4>
  
  
 <!-- GITHUB PROFILE STATS
