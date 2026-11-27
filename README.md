@@ -36,6 +36,6 @@
 
 <h4 align="center">
 
-[Site](https://alessandroliscio.github.io) · [Email](mailto:alessandroliscio02@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alessandro-liscio-483027192/) · [GitHub](https://github.com/AlessandroLiscio)
+[Site](https://alessandroliscio.github.io) · [Email](mailto:alessandroliscio02@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alessandro-liscio-483027192/) · [GitHub](https://github.com/AlessandroLiscio) · [ORCID 0009-0001-8641-2377](https://orcid.org/0009-0001-8641-2377)
 
 </h4>
